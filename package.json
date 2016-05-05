@@ -1,10 +1,14 @@
 {
     "name": "html5-project-boilerplate",
     "author": "Tamas Kuti",
-    "homepage": "http://beardesign.hu",
+    "homepage": "https://github.com/Cooty/Boilerplate",
     "version": "0.0.1",
     "license": "GPL-3.0",
     "private": true,
+    "bugs": {
+        "url": "https://github.com/Cooty/Boilerplate/issues",
+        "email": "cooty13@gmail.com"
+    },
 
     "devDependencies": {
         "node-static":                  "*",
