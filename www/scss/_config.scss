@@ -1,0 +1,14 @@
+// Sizes
+$page-w: 960px;
+
+// Z-index settings
+$z-bottom: 1;
+$z-middle: 10;
+$z-high: 100;
+$z-top: 1000;
+
+// Colors
+$grey: #333;
+$brand-color: #0000ff;
+$brand-color-dark: darken($brand-color, 10%);
+$brand-color-light: lighten($brand-color, 10%);

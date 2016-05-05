@@ -1,0 +1,29 @@
+.grid {
+	$gutter: 20px;
+	margin-left: -$gutter;
+
+	&__item {
+		box-sizing: border-box;
+		vertical-align: top;
+		display: inline-block;
+		padding-left: $gutter;
+
+		&.half {
+			width: 50%;
+		}
+
+		&.quarter {
+			width: 25%;
+		}
+
+		&.third {
+			width: 33.333333%;
+		}
+
+		&.full {
+			width: 100%;
+		}
+
+	}
+
+}
